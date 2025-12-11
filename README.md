@@ -28,3 +28,6 @@ Real-Time Backend,Firebase Firestore / Socket.IO / AWS Amplify,"Essential for ha
 Authentication,Firebase Authentication / Custom JWT,Used for secure user login and session management.
 
 YouTube Video:https://youtu.be/in8cpgOHZcU?si=lMeMuSiPvRRuu1n5
+
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_7rm70q7rm70q7rm7" src="https://github.com/user-attachments/assets/e20b073e-a739-4bfe-a684-be3ee3c85252" />
