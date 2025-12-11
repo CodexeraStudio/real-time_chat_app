@@ -26,3 +26,5 @@ Programming Language,Dart / Swift / Kotlin,The core language used for the applic
 Framework,Flutter / React Native / Native iOS/Android,The chosen platform for mobile UI development.
 Real-Time Backend,Firebase Firestore / Socket.IO / AWS Amplify,"Essential for handling real-time, asynchronous messaging."
 Authentication,Firebase Authentication / Custom JWT,Used for secure user login and session management.
+
+YouTube Video:https://youtu.be/in8cpgOHZcU?si=lMeMuSiPvRRuu1n5
